@@ -1,5 +1,3 @@
-![Astro Photo Grid Preview](./public/cover.png)
-
 # Astro Photo Grid
 
 A minimal, single-page photo gallery for [Astro](https://astro.build/). See the [demo](https://astro-photo-grid.netlify.app/)!
