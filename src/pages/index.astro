@@ -8,10 +8,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 );
 ---
 
-<BaseLayout
-  title="Fab"
-  description="A minimal, single-page photo gallery for Astro."
->
+<BaseLayout title="🏝️逍遥湾形色园地🌸" description="用计算机技术构造形色匠艺">
   <section class="justified-gallery" id="photoswipe">
     {
       Object.entries(images).map(async ([_path, image], index) => {

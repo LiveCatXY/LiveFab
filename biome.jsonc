@@ -19,8 +19,19 @@
     "indentWidth": 2,
     "lineEnding": "lf"
   },
-  "assist": { "actions": { "source": { "organizeImports": "on" } } },
-  "linter": { "enabled": true, "rules": { "recommended": true } },
+  "assist": {
+    "actions": {
+      "source": {
+        "organizeImports": "on"
+      }
+    }
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true
+    }
+  },
   "overrides": [
     {
       "includes": ["**/*.astro"],
